@@ -1,3 +1,3 @@
 <?php
 
-echo 'Funguje to!';
+echo 'AHOJ 💩';
